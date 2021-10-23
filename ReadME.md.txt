@@ -1,1 +1,1 @@
-Git Training - From feature-1 branch from local
+Git Training - From feature-1 branch
